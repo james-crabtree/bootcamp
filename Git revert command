@@ -1,0 +1,1 @@
+The git revert command is used as a forward-moving undo operation that allows for a safe method of undoing changes to your git repository. It works by instead of deleting commits in the commit history, a git revert will create a new repo commit that inverses the changes that were specified. 
